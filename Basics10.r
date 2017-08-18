@@ -1,10 +1,10 @@
-//Array Basics
+//List Basics
 
-array <- c(1,2,3)
+lst <- c(1,2,3)
 
-print(array[1])
-print(array[2])
-print(array[3])
+print(lst[1])
+print(lst[2])
+print(lst[3])
 
 
 
