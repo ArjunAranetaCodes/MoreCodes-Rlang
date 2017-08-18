@@ -1,16 +1,16 @@
 
-arrNumbers <- c(4,3,2,1)
+lstNumbers <- c(4,3,2,1)
 closest <- 0
-numDiff <- arrNumbers[1]
+numDiff <- lstNumbers[1]
 
 x <- 0
-while (x <= length(arrNumbers)) {
+while (x <= length(lstNumbers)) {
  diff <- 0
- diff = 0 - arrNumbers[x]
+ diff = 0 - lstNumbers[x]
  diff = abs(diff)
  if(!is.null(diff < numDiff)){
   numDiff = diff
-  closest = arrNumbers[x]
+  closest = lstNumbers[x]
  }
  x = x + 1
 }

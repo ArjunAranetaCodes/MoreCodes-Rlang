@@ -1,6 +1,6 @@
 
-arrNumbers = c(1,2,3)
+lstNumbers = c(1,2,3)
 
-print(paste("Sum is ", sum(arrNumbers)))
+print(paste("Sum is ", sum(lstNumbers)))
 
 

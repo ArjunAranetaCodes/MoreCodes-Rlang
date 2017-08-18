@@ -1,10 +1,10 @@
 
-arrNumbers = c(1,2,3)
+lstNumbers = c(1,2,3)
 count = 0
 
 x <- 1
-while (x <= length(arrNumbers)) {
- if(arrNumbers[x] == 2){
+while (x <= length(lstNumbers)) {
+ if(lstNumbers[x] == 2){
   count = count + 1
  }
  x = x + 1

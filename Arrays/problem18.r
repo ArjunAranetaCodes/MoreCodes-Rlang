@@ -1,7 +1,7 @@
 
-array1 <- c(1,3,2,4)
-array2 <- sort(array1, decreasing = TRUE)
+list1 <- c(1,3,2,4)
+list2 <- sort(list1, decreasing = TRUE)
 
-print(array2)
+print(list2)
 
 

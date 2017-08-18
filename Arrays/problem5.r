@@ -1,9 +1,9 @@
 
-arrNumbers = c(1,2,3)
+lstNumbers = c(1,2,3)
 
 x <- 1
-while (x <= length(arrNumbers)) {
- print(arrNumbers[x])
+while (x <= length(lstNumbers)) {
+ print(lstNumbers[x])
  x = x + 1
 }
 

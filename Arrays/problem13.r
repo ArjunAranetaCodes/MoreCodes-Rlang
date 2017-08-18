@@ -1,10 +1,10 @@
 
-arrNumbers = c(1,2,3,4)
+lstNumbers = c(1,2,3,4)
 
 x <- 1
-while (x <= length(arrNumbers)) {
- if(arrNumbers[x] %% 2 == 0){
-  print(arrNumbers[x])
+while (x <= length(lstNumbers)) {
+ if(lstNumbers[x] %% 2 == 0){
+  print(lstNumbers[x])
  }
  x = x + 1
 }

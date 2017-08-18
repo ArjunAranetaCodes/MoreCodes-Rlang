@@ -1,9 +1,9 @@
 
-array1 <- c(1,2,3)
-array2 <- c(1,2,3)
+list1 <- c(1,2,3)
+list2 <- c(1,2,3)
 
-if(all(array1 == array2)){
- print("Equal Arrays")
+if(all(list1 == list2)){
+ print("Equal Lists")
 }else{
  print("Not Equal")
 }

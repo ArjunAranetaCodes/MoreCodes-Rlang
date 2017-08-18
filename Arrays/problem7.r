@@ -1,5 +1,5 @@
 
-arrNumbers = c(1,2,3)
-print(paste("Largest Number: ", which.max(arrNumbers)))
+lstNumbers = c(1,2,3)
+print(paste("Largest Number: ", which.max(lstNumbers)))
 
 

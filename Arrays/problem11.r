@@ -1,7 +1,7 @@
 
-array1 <- c(1,2,3)
-array2 <- rev(array1)
+list1 <- c(1,2,3)
+list2 <- rev(list1)
 
-print(array1)
+print(list1)
 
 

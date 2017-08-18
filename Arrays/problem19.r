@@ -1,8 +1,8 @@
 
-array1 <- c(1,2,3)
-array2 <- c(1,2,3)
+list1 <- c(1,2,3)
+list2 <- c(1,2,3)
 
-array1 <- append(array1, array2, length(array1))
-print(array1)
+list1 <- append(list1, list2, length(list1))
+print(list1)
 
 
