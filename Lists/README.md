@@ -9,7 +9,7 @@ Join Us on Youtube! <br/>
 </p>
 
 - - - -
-### [R List Programming Problems](Lists/) <- Click to go to List Problems
+### [R List Programming Problems](../Lists/) <- Click to go to List Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rlang/blob/master/Lists/problem1.r" target="_blank">Write a program that outputs the length of array.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rlang/blob/master/Lists/problem2.r" target="_blank">Write a program that gets the index of an element in an array.</a>

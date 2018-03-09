@@ -9,7 +9,7 @@ Join Us on Youtube! <br/>
 </p>
 
 - - - -
-### [R Loops Programming Problems](Loops/) <- Click to go to Loop Problems
+### [R Loops Programming Problems](../Loops/) <- Click to go to Loop Problems
 
 1. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rlang/blob/master/Loops/problem1.r" target="_blank">Write a program that prints the numbers from 1 to 50. Output "Fizz" for multiples of 3, output "Buzz" for multiples of 5, and bot "FizzBuzz" for multiples of both 3 and 5.</a>
 2. <a href="https://github.com/ArjunAranetaCodes/MoreCodes-Rlang/blob/master/Loops/problem2.r" target="_blank">Write a program that outputs 5 random integers.</a>
