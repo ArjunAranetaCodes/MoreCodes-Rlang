@@ -1,0 +1,2 @@
+#Problem 8: Write a program that checks if the String if valid url using Regular Expression.
+print(grepl("^(https?:\\/\\/)?(www\\.)?([\\w]+\\.)+[\\w]{2,63}\\/?$", c("http://www.example.com", "wwwexamplecom"), perl=TRUE))
